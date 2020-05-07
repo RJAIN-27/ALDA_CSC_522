@@ -1,0 +1,55 @@
+Running instructions: 
+
+1. Unzip the submission file 
+2. Open hw0.R in Rstudio or any other ide for R
+3. Make sure ggplot2 is installed 
+4. Call the functions mentioned in the hw0.R file either on the console or in a separate R script with the respective arguments. 
+5. Run the script 
+6. Verify the output
+7. Verify the two scatter plots which are generated on executing the intro_to_plotting() function. These plots will be generated in the same folder where hw0.R is present. 
+
+Sample function calls: 
+
+Eg-1 intro_to_r(10)
+
+Sample output: 
+
+[[1]]
+ [1]  0.2681838  0.7268415  0.2331354  0.3391139 -0.5519147  0.3477014  1.4845918  0.1883255
+ [9]  2.4432598 -1.1534395
+
+[[2]]
+[1] 0.4325799
+
+[[3]]
+[1] 0.3036488
+
+[[4]]
+[1] 2.44326
+
+[[5]]
+[1] -1.153439
+
+Eg-2 intro_to_r(25)
+
+[[1]]
+ [1] -1.53665329  0.07815779  0.25039581  0.24408720  0.79973823  0.34140956  0.25871768
+ [8]  0.95387862  1.13641472 -0.98428802 -0.90965464 -0.88909202 -0.24934020  0.32085092
+[15] -0.66536941 -1.00891654  0.34120161  0.38839783  1.77016421  0.21266214  1.46201732
+[22]  0.05515576  1.24817840 -0.99804178  1.17091433
+
+[[2]]
+[1] 0.1516394
+
+[[3]]
+[1] 0.2503958
+
+[[4]]
+[1] 1.770164
+
+[[5]]
+[1] -1.536653
+
+Eg-3 intro_to_plotting(25) 
+
+PDF generation 
